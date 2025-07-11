@@ -10,6 +10,7 @@ namespace ProductApi.Mappings
         public MapperSetup()
         {
             CreateMap<ProductEntity, ProductDTO>();
+            CreateMap<ProductDTO,ProductEntity>();
         }
     }
 }
