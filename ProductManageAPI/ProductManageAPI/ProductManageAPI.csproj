@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Interface\ProductManageAPI.ProviderInterface\ProductManageAPI.ProviderInterface.csproj" />
+    <ProjectReference Include="..\..\Interface\ProductManageAPI.RepositoryInterface\ProductManageAPI.RepositoryInterface.csproj" />
+    <ProjectReference Include="..\..\Mapper\ProductManageAPI.Mapper\ProductManageAPI.Mapper.csproj" />
+    <ProjectReference Include="..\..\Respository\ProductManageAPI.Repository\ProductManageAPI.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

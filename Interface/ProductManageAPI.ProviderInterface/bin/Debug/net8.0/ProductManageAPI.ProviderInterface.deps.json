@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductManageAPI.ProviderInterface/1.0.0": {
+        "dependencies": {
+          "ProductManageAPI.DTO": "1.0.0"
+        },
+        "runtime": {
+          "ProductManageAPI.ProviderInterface.dll": {}
+        }
+      },
+      "ProductManageAPI.DTO/1.0.0": {
+        "runtime": {
+          "ProductManageAPI.DTO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductManageAPI.ProviderInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductManageAPI.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

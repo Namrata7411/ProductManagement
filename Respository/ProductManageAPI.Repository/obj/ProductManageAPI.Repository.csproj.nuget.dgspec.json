@@ -1,0 +1,363 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Product\\Personal\\Respository\\ProductManageAPI.Repository\\ProductManageAPI.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\ProductManageAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\ProductManageAPI.Domain.csproj",
+        "projectName": "ProductManageAPI.Domain",
+        "projectPath": "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\ProductManageAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\namrata.sriharidas\\.nuget\\packages\\",
+        "outputPath": "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namrata.sriharidas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "linq2db": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Product\\Personal\\DTO\\ProductManageAPI.DTO\\ProductManageAPI.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Product\\Personal\\DTO\\ProductManageAPI.DTO\\ProductManageAPI.DTO.csproj",
+        "projectName": "ProductManageAPI.DTO",
+        "projectPath": "D:\\Product\\Personal\\DTO\\ProductManageAPI.DTO\\ProductManageAPI.DTO.csproj",
+        "packagesPath": "C:\\Users\\namrata.sriharidas\\.nuget\\packages\\",
+        "outputPath": "D:\\Product\\Personal\\DTO\\ProductManageAPI.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namrata.sriharidas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Product\\Personal\\Interface\\ProductManageAPI.ProviderInterface\\ProductManageAPI.ProviderInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Product\\Personal\\Interface\\ProductManageAPI.ProviderInterface\\ProductManageAPI.ProviderInterface.csproj",
+        "projectName": "ProductManageAPI.ProviderInterface",
+        "projectPath": "D:\\Product\\Personal\\Interface\\ProductManageAPI.ProviderInterface\\ProductManageAPI.ProviderInterface.csproj",
+        "packagesPath": "C:\\Users\\namrata.sriharidas\\.nuget\\packages\\",
+        "outputPath": "D:\\Product\\Personal\\Interface\\ProductManageAPI.ProviderInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namrata.sriharidas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Product\\Personal\\DTO\\ProductManageAPI.DTO\\ProductManageAPI.DTO.csproj": {
+                "projectPath": "D:\\Product\\Personal\\DTO\\ProductManageAPI.DTO\\ProductManageAPI.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Product\\Personal\\Interface\\ProductManageAPI.RepositoryInterface\\ProductManageAPI.RepositoryInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Product\\Personal\\Interface\\ProductManageAPI.RepositoryInterface\\ProductManageAPI.RepositoryInterface.csproj",
+        "projectName": "ProductManageAPI.RepositoryInterface",
+        "projectPath": "D:\\Product\\Personal\\Interface\\ProductManageAPI.RepositoryInterface\\ProductManageAPI.RepositoryInterface.csproj",
+        "packagesPath": "C:\\Users\\namrata.sriharidas\\.nuget\\packages\\",
+        "outputPath": "D:\\Product\\Personal\\Interface\\ProductManageAPI.RepositoryInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namrata.sriharidas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\ProductManageAPI.Domain.csproj": {
+                "projectPath": "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\ProductManageAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Product\\Personal\\Respository\\ProductManageAPI.Repository\\ProductManageAPI.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Product\\Personal\\Respository\\ProductManageAPI.Repository\\ProductManageAPI.Repository.csproj",
+        "projectName": "ProductManageAPI.Repository",
+        "projectPath": "D:\\Product\\Personal\\Respository\\ProductManageAPI.Repository\\ProductManageAPI.Repository.csproj",
+        "packagesPath": "C:\\Users\\namrata.sriharidas\\.nuget\\packages\\",
+        "outputPath": "D:\\Product\\Personal\\Respository\\ProductManageAPI.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namrata.sriharidas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\ProductManageAPI.Domain.csproj": {
+                "projectPath": "D:\\Product\\Personal\\Domain\\ProductManageAPI.Domain\\ProductManageAPI.Domain.csproj"
+              },
+              "D:\\Product\\Personal\\Interface\\ProductManageAPI.ProviderInterface\\ProductManageAPI.ProviderInterface.csproj": {
+                "projectPath": "D:\\Product\\Personal\\Interface\\ProductManageAPI.ProviderInterface\\ProductManageAPI.ProviderInterface.csproj"
+              },
+              "D:\\Product\\Personal\\Interface\\ProductManageAPI.RepositoryInterface\\ProductManageAPI.RepositoryInterface.csproj": {
+                "projectPath": "D:\\Product\\Personal\\Interface\\ProductManageAPI.RepositoryInterface\\ProductManageAPI.RepositoryInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
